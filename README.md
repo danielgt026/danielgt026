@@ -8,4 +8,5 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/_dangoto/)
   
 ![danielgt026 GitHub Status](https://github-readme-stats.vercel.app/api?username=danielgt026&show_icons=true&theme=dark)
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgt026&hide_progress=true)
