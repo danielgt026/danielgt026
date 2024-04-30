@@ -11,4 +11,4 @@
   
 ![danielgt026 GitHub Status](https://github-readme-stats.vercel.app/api?username=danielgt026&show_icons=true&theme=dark)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgt026&hide_progress=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgt026&hide_progress=Compact)
